@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(129, 129, 129);
+  color: red;
+  font-size: 2rem;
+  
+}
+
+.home{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50svh;
+}
